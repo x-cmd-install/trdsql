@@ -1,0 +1,59 @@
+about:
+  description: CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.
+  license: MIT
+  homepage: https://noborus.github.io/trdsql/
+  head: ed7c4d5
+  archived: false
+  latestVersion: v1.2.3
+  collectedAt: 2026-08-31T05:45:55Z
+timeline:
+  created: 2017-07-03
+  lastCommit: 2026-08-29
+  lastRelease: 2026-05-29
+popularity:
+  star: 2173
+  watcher: 17
+  fork: 80
+  release: 45
+  contributor: 11
+  pullRequest: 12
+  issue: 50
+language:
+  Go: 315181
+  Makefile: 3334
+  Shell: 2491
+  Dockerfile: 603
+totalLine: 321609
+recent:
+  last30d:
+    since: 2026-08-01
+    release: 0
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 3
+  last90d:
+    since: 2026-06-02
+    release: 0
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 5
+  last180d:
+    since: 2026-03-04
+    release: 4
+    mergedPR: 20
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 23
+  last360d:
+    since: 2025-09-05
+    release: 4
+    mergedPR: 28
+    openPR: 0
+    closedIssue: 1
+    openIssue: 1
+    commit: 29
