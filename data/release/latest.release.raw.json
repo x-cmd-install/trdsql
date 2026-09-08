@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10419941,
       "digest": "sha256:812d1e81f98b6a8b6e7c5f1d8ef8e451d6ea75a14bd8a72c1c2334d7c78d9305",
-      "download_count": 3344,
+      "download_count": 3345,
       "created_at": "2026-05-29T05:43:26Z",
       "updated_at": "2026-05-29T05:43:27Z",
       "browser_download_url": "https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_amd64.zip"
