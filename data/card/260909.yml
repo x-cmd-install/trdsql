@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.3"
   latestRelease: "v1.2.3"
   latestPrerelease: "v0.13.0-rc11"
-  collectedAt: 2026-09-09T04:18:28Z
+  collectedAt: 2026-09-09T18:29:11Z
 timeline:
   created: 2017-07-03
   lastCommit: 2026-08-29
@@ -86,7 +86,7 @@ total:
   commit: 909
 ---
 path: /home/runner/.x-repo/github.com/noborus/trdsql
-collectedAt: 2026-09-09T04:18:29Z
+collectedAt: 2026-09-09T18:29:12Z
 loc:
   Go:
     code: 12051
