@@ -4,7 +4,7 @@
 
 CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN. Can output to various formats.
 
-![trdsql](https://repo.x-cmd.io/trdsql.svg)
+![trdsql](https://repo.x-cmd.io/trdsql.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,25 @@ x install trdsql
 - **最新版本**: `v1.2.3` (2026-05-29)
 - **最近提交**: 2026-08-29
 - **Release 含资产**: 14 个
-- **发布时间**: 2026-05-29T05:31:23Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [trdsql_v1.2.3_darwin_amd64.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_darwin_amd64.zip) | 10.6 MiB | `native/darwin/x64` |
+| [trdsql_v1.2.3_darwin_arm64.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_darwin_arm64.zip) | 9.7 MiB | `native/darwin/arm64` |
+| [trdsql_v1.2.3_linux_386.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_386.zip) | 9.8 MiB | `other` |
+| [trdsql_v1.2.3_linux_amd64.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_amd64.zip) | 9.9 MiB | `native/linux/x64` |
+| [trdsql_v1.2.3_linux_arm-5.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_arm-5.zip) | 7.4 MiB | `native/linux/arm` |
+| [trdsql_v1.2.3_linux_arm-6.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_arm-6.zip) | 7.4 MiB | `native/linux/arm` |
+| [trdsql_v1.2.3_linux_arm-7.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_arm-7.zip) | 7.4 MiB | `native/linux/arm` |
+| [trdsql_v1.2.3_linux_arm64.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_arm64.zip) | 9.2 MiB | `native/linux/arm64` |
+| [trdsql_v1.2.3_linux_mips.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_mips.zip) | 9.6 MiB | `other` |
+| [trdsql_v1.2.3_linux_mips64.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_mips64.zip) | 9.4 MiB | `other` |
+| [trdsql_v1.2.3_linux_mipsle.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_mipsle.zip) | 9.5 MiB | `other` |
+| [trdsql_v1.2.3_linux_old_amd64.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_old_amd64.zip) | 9.7 MiB | `native/linux/x64` |
+| [trdsql_v1.2.3_windows_386.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_windows_386.zip) | 8.0 MiB | `native/win/x64` |
+| [trdsql_v1.2.3_windows_amd64.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_windows_amd64.zip) | 8.0 MiB | `native/win/x64` |
 
 ## 流行度
 
@@ -72,4 +90,4 @@ trdsql 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:15:27Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:58:02Z._
