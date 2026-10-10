@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-09 | 0 | 3 | 0 | 0 | 1 | 3 |
-| 90d | 2026-07-10 | 0 | 4 | 0 | 0 | 1 | 4 |
-| last180d | 2026-04-11 | 4 | 19 | 0 | 1 | 1 | 22 |
-| 360d | 2025-10-13 | 4 | 28 | 0 | 1 | 1 | 29 |
-| last720d | 2024-10-18 | 5 | 48 | 0 | 1 | 1 | 78 |
+| 30d | 2026-09-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-11 | 0 | 3 | 0 | 0 | 1 | 3 |
+| 90d | 2026-07-12 | 0 | 4 | 0 | 0 | 1 | 4 |
+| last180d | 2026-04-13 | 4 | 19 | 0 | 1 | 1 | 22 |
+| 360d | 2025-10-15 | 4 | 28 | 0 | 1 | 1 | 29 |
+| last720d | 2024-10-20 | 5 | 48 | 0 | 1 | 1 | 78 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for trdsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T05:41:09Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:28:47Z._
