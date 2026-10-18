@@ -14,11 +14,11 @@ x install trdsql
 
 ## Code insight
 
-Total: **12,313** lines of code across **84** files in the top 5 languages.
+Total: **12,396** lines of code across **85** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 12,051 | 535 | 741 | 74 |
+| Go | 12,134 | 535 | 743 | 75 |
 | Makefile | 93 | 6 | 19 | 1 |
 | Json | 70 | 0 | 0 | 7 |
 | Zsh | 64 | 1 | 5 | 1 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.3` (2026-05-29)
-- **Last commit**: 2026-08-29
+- **Last commit**: 2026-10-18
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 2,176 · **Forks**: 87 · **Open issues**: 50 · **Contributors**: 11
+- **Stars**: 2,176 · **Forks**: 91 · **Open issues**: 50 · **Contributors**: 12
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 279 · **Open PRs**: 1 · **Closed issues**: 37 · **Open issues**: 13 · **Commits**: 909
+- **Releases**: 45 · **Merged PRs**: 280 · **Open PRs**: 1 · **Closed issues**: 37 · **Open issues**: 13 · **Commits**: 911
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-08-18 | 0 | 3 | 1 | 0 | 1 | 3 |
-| 90d | 2026-07-19 | 0 | 3 | 1 | 0 | 1 | 3 |
-| last180d | 2026-04-20 | 4 | 18 | 1 | 1 | 1 | 20 |
-| 360d | 2025-10-22 | 4 | 28 | 1 | 1 | 1 | 29 |
-| last720d | 2024-10-27 | 5 | 45 | 1 | 1 | 1 | 73 |
+| 30d | 2026-09-18 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-08-19 | 0 | 3 | 1 | 0 | 1 | 2 |
+| 90d | 2026-07-20 | 0 | 4 | 1 | 0 | 1 | 4 |
+| last180d | 2026-04-21 | 4 | 19 | 1 | 1 | 1 | 21 |
+| 360d | 2025-10-23 | 4 | 29 | 1 | 1 | 1 | 30 |
+| last720d | 2024-10-28 | 5 | 46 | 1 | 1 | 1 | 74 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for trdsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:00:45Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:07:52Z._
