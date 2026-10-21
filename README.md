@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,176 · **Forks**: 93 · **Open issues**: 50 · **Contributors**: 12
+- **Stars**: 2,176 · **Forks**: 83 · **Open issues**: 50 · **Contributors**: 12
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-08-21 | 0 | 3 | 1 | 0 | 1 | 2 |
-| 90d | 2026-07-22 | 0 | 4 | 1 | 0 | 1 | 4 |
-| last180d | 2026-04-23 | 4 | 19 | 1 | 1 | 1 | 21 |
-| 360d | 2025-10-25 | 4 | 29 | 1 | 1 | 1 | 30 |
-| last720d | 2024-10-30 | 4 | 46 | 1 | 1 | 1 | 72 |
+| 30d | 2026-09-21 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-08-22 | 0 | 2 | 1 | 0 | 1 | 2 |
+| 90d | 2026-07-23 | 0 | 4 | 1 | 0 | 1 | 4 |
+| last180d | 2026-04-24 | 4 | 19 | 1 | 1 | 1 | 21 |
+| 360d | 2025-10-26 | 4 | 29 | 1 | 1 | 1 | 30 |
+| last720d | 2024-10-31 | 4 | 46 | 1 | 1 | 1 | 72 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for trdsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:28:35Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:20:11Z._
