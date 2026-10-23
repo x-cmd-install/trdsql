@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-08-23 | 0 | 2 | 1 | 0 | 1 | 2 |
-| 90d | 2026-07-24 | 0 | 4 | 1 | 0 | 1 | 4 |
-| last180d | 2026-04-25 | 4 | 19 | 1 | 1 | 1 | 21 |
-| 360d | 2025-10-27 | 4 | 29 | 1 | 1 | 1 | 30 |
-| last720d | 2024-11-01 | 4 | 46 | 1 | 1 | 1 | 72 |
+| 30d | 2026-09-23 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-08-24 | 0 | 2 | 1 | 0 | 1 | 2 |
+| 90d | 2026-07-25 | 0 | 4 | 1 | 0 | 1 | 4 |
+| last180d | 2026-04-26 | 4 | 19 | 1 | 1 | 1 | 21 |
+| 360d | 2025-10-28 | 4 | 29 | 1 | 1 | 1 | 30 |
+| last720d | 2024-11-02 | 4 | 46 | 1 | 1 | 1 | 72 |
 
 ## Release assets
 
@@ -84,6 +84,15 @@ Lowest-scoring checks:
 | [trdsql_v1.2.3_windows_386.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_windows_386.zip) | 8.0 MiB | `native/win/x64` |
 | [trdsql_v1.2.3_windows_amd64.zip](https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_windows_amd64.zip) | 8.0 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **12** distros on [repology.org](https://repology.org/project/trdsql). **7** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `1.2.3` | ✅ latest |
+| Nix unstable | `1.2.3` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for trdsql lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `trdsql` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +102,4 @@ Install metadata for trdsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:19:41Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:23:48Z._
