@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.3` (2026-05-29)
-- **Last commit**: 2026-10-18
+- **Last commit**: 2026-10-30
 - **Assets in release**: 14
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 280 · **Open PRs**: 1 · **Closed issues**: 37 · **Open issues**: 13 · **Commits**: 911
+- **Releases**: 45 · **Merged PRs**: 281 · **Open PRs**: 1 · **Closed issues**: 37 · **Open issues**: 13 · **Commits**: 913
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-08-31 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-08-01 | 0 | 4 | 1 | 0 | 1 | 4 |
-| last180d | 2026-05-03 | 4 | 17 | 1 | 1 | 1 | 19 |
-| 360d | 2025-11-04 | 4 | 29 | 1 | 1 | 1 | 30 |
-| last720d | 2024-11-09 | 4 | 46 | 1 | 1 | 1 | 72 |
+| 30d | 2026-10-01 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-01 | 0 | 2 | 1 | 0 | 0 | 2 |
+| 90d | 2026-08-02 | 0 | 5 | 1 | 0 | 1 | 5 |
+| last180d | 2026-05-04 | 4 | 18 | 1 | 1 | 1 | 20 |
+| 360d | 2025-11-05 | 4 | 30 | 1 | 1 | 1 | 31 |
+| last720d | 2024-11-10 | 4 | 47 | 1 | 1 | 1 | 74 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for trdsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:24:45Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:08:55Z._
