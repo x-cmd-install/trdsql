@@ -24,16 +24,6 @@ Total: **12,548** lines of code across **85** files in the top 5 languages.
 | Zsh | 64 | 1 | 5 | 1 |
 | Dockerfile | 19 | 4 | 3 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **3.3 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (2/10) — Found 3/14 approved changesets -- score normalized to 2
-- **Packaging** (-1/10) — packaging workflow not detected
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-
 ## Source
 
 - **Upstream**: <https://github.com/noborus/trdsql>
@@ -43,7 +33,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v1.2.3` (2026-05-29)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-08
 - **Assets in release**: 14
 
 ## Popularity
@@ -52,18 +42,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 282 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 12 · **Commits**: 915
+- **Releases**: 45 · **Merged PRs**: 283 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 12 · **Commits**: 917
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 3 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-09 | 0 | 3 | 0 | 0 | 0 | 3 |
-| 90d | 2026-08-10 | 0 | 6 | 0 | 1 | 0 | 6 |
-| last180d | 2026-05-12 | 4 | 12 | 0 | 2 | 0 | 13 |
-| 360d | 2025-11-13 | 4 | 31 | 0 | 2 | 0 | 32 |
-| last720d | 2024-11-18 | 4 | 48 | 0 | 2 | 0 | 76 |
+| 30d | 2026-10-11 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-11 | 0 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-12 | 0 | 7 | 0 | 1 | 0 | 7 |
+| last180d | 2026-05-14 | 2 | 13 | 0 | 2 | 0 | 14 |
+| 360d | 2025-11-15 | 4 | 32 | 0 | 2 | 0 | 33 |
+| last720d | 2024-11-20 | 4 | 49 | 0 | 2 | 0 | 78 |
 
 ## Release assets
 
@@ -102,4 +92,4 @@ Install metadata for trdsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:40:35Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T06:56:58Z._
