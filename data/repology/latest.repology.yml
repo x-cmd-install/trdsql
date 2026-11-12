@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: trdsql
+  visiblename: trdsql
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN
 - repo: aur
   srcname: trdsql
   binname: trdsql
@@ -27,7 +34,7 @@
   binname: trdsql
   visiblename: textproc/trdsql
   version: 0.20.0
-  origversion: 0.20.0_27
+  origversion: 0.20.0_28
   status: outdated
   summary: Execute SQL queries on CSV, LTSV, JSON and TBLN
   maintainers:
@@ -40,13 +47,6 @@
   version: 1.2.3
   origversion: null
   status: newest
-  summary: CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN
-- repo: homebrew
-  srcname: trdsql
-  visiblename: trdsql
-  version: HEAD
-  origversion: null
-  status: rolling
   summary: CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN
 - repo: macports
   srcname: textproc/trdsql

@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11099852,
       "digest": "sha256:d9c9fff2c12cf283cea92146b477dd1b3b4f4453c770706faa2c796a4caaa8a9",
-      "download_count": 179,
+      "download_count": 181,
       "created_at": "2026-05-29T05:43:26Z",
       "updated_at": "2026-05-29T05:43:27Z",
       "browser_download_url": "https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_darwin_amd64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 10126515,
       "digest": "sha256:47dae0df39a41738cedaf29f035c93e1b719b8f72baad7c64ba7d16a167aeb80",
-      "download_count": 249,
+      "download_count": 251,
       "created_at": "2026-05-29T05:43:26Z",
       "updated_at": "2026-05-29T05:43:27Z",
       "browser_download_url": "https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_darwin_arm64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 10419941,
       "digest": "sha256:812d1e81f98b6a8b6e7c5f1d8ef8e451d6ea75a14bd8a72c1c2334d7c78d9305",
-      "download_count": 5256,
+      "download_count": 5288,
       "created_at": "2026-05-29T05:43:26Z",
       "updated_at": "2026-05-29T05:43:27Z",
       "browser_download_url": "https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_amd64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7771997,
       "digest": "sha256:886021b756be2c878bb441b869db8b3562916ca3291b3395902053466dbedd4a",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-05-29T05:43:26Z",
       "updated_at": "2026-05-29T05:43:27Z",
       "browser_download_url": "https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_arm-5.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 7740628,
       "digest": "sha256:36f2cabc24141e276f23318862ad3b06d5398fe1a96a26db05fffacf9f79a986",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-05-29T05:43:26Z",
       "updated_at": "2026-05-29T05:43:27Z",
       "browser_download_url": "https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_arm-7.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 9647139,
       "digest": "sha256:a59aadf13ffaf2795893119424ad5991155f993515238b29aedebb1f225ba435",
-      "download_count": 195,
+      "download_count": 196,
       "created_at": "2026-05-29T05:43:26Z",
       "updated_at": "2026-05-29T05:43:27Z",
       "browser_download_url": "https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_arm64.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 10074701,
       "digest": "sha256:6762f7f054e046e6a023c62dc2c448b27b27c3b83a42fc27c3a7446d0cf790c8",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-05-29T05:43:26Z",
       "updated_at": "2026-05-29T05:43:27Z",
       "browser_download_url": "https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_mips.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 9880436,
       "digest": "sha256:ede506f559ab72dfea75c1b05800990576b14f51a5fa927f73363a4f9b07639b",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-05-29T05:43:26Z",
       "updated_at": "2026-05-29T05:43:27Z",
       "browser_download_url": "https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_mips64.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 9951466,
       "digest": "sha256:4573821a6f380a839a336310e7c0526883ba0bacf28eb8af4cbae100def91698",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-05-29T05:43:26Z",
       "updated_at": "2026-05-29T05:43:27Z",
       "browser_download_url": "https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_linux_mipsle.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 8360620,
       "digest": "sha256:fc161d5ee5da87adf11ac2d62be8af830ad288b0c5122f0680def8c05768cbf5",
-      "download_count": 71,
+      "download_count": 74,
       "created_at": "2026-05-29T05:43:25Z",
       "updated_at": "2026-05-29T05:43:27Z",
       "browser_download_url": "https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_windows_386.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 8430616,
       "digest": "sha256:03d6aa5a593511e8c0a75eb235a161aa8305f5ab2b1b1ac039ed800cab27d823",
-      "download_count": 372,
+      "download_count": 380,
       "created_at": "2026-05-29T05:43:26Z",
       "updated_at": "2026-05-29T05:43:27Z",
       "browser_download_url": "https://github.com/noborus/trdsql/releases/download/v1.2.3/trdsql_v1.2.3_windows_amd64.zip"
