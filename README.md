@@ -48,12 +48,12 @@ Total: **12,548** lines of code across **85** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 3 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-16 | 0 | 4 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-17 | 0 | 7 | 0 | 1 | 0 | 5 |
-| last180d | 2026-05-19 | 2 | 13 | 0 | 2 | 0 | 11 |
-| 360d | 2025-11-20 | 4 | 31 | 0 | 2 | 0 | 32 |
-| last720d | 2024-11-25 | 4 | 49 | 0 | 2 | 0 | 78 |
+| 30d | 2026-10-17 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-17 | 0 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-18 | 0 | 7 | 0 | 1 | 0 | 5 |
+| last180d | 2026-05-20 | 2 | 13 | 0 | 2 | 0 | 11 |
+| 360d | 2025-11-21 | 4 | 31 | 0 | 2 | 0 | 32 |
+| last720d | 2024-11-26 | 4 | 49 | 0 | 2 | 0 | 78 |
 
 ## Release assets
 
@@ -80,7 +80,7 @@ Reported by **12** distros on [repology.org](https://repology.org/project/trdsql
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
+| Homebrew | `1.2.3` | ✅ latest |
 | Nix unstable | `1.2.3` | ✅ latest |
 
 ## Improve this data
@@ -92,4 +92,4 @@ Install metadata for trdsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T05:58:32Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T05:58:13Z._
