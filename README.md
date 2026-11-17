@@ -24,6 +24,16 @@ Total: **12,548** lines of code across **85** files in the top 5 languages.
 | Zsh | 64 | 1 | 5 | 1 |
 | Dockerfile | 19 | 4 | 3 | 1 |
 
+## OpenSSF Scorecard
+
+Overall score: **3.6 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 4/15 approved changesets -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+
 ## Source
 
 - **Upstream**: <https://github.com/noborus/trdsql>
@@ -48,12 +58,12 @@ Total: **12,548** lines of code across **85** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-17 | 0 | 4 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-18 | 0 | 7 | 0 | 1 | 0 | 5 |
-| last180d | 2026-05-20 | 2 | 13 | 0 | 2 | 0 | 11 |
-| 360d | 2025-11-21 | 4 | 31 | 0 | 2 | 0 | 32 |
-| last720d | 2024-11-26 | 4 | 49 | 0 | 2 | 0 | 78 |
+| 30d | 2026-10-18 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-18 | 0 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-19 | 0 | 6 | 0 | 1 | 0 | 5 |
+| last180d | 2026-05-21 | 2 | 13 | 0 | 2 | 0 | 11 |
+| 360d | 2025-11-22 | 4 | 31 | 0 | 2 | 0 | 32 |
+| last720d | 2024-11-27 | 4 | 48 | 0 | 2 | 0 | 78 |
 
 ## Release assets
 
@@ -92,4 +102,4 @@ Install metadata for trdsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T05:58:13Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T07:36:12Z._
