@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 45 · **Merged PRs**: 283 · **Open PRs**: 0 · **Closed issues**: 38 · **Open issues**: 12 · **Commits**: 917
+- **Releases**: 45 · **Merged PRs**: 283 · **Open PRs**: 0 · **Closed issues**: 39 · **Open issues**: 11 · **Commits**: 917
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-18 | 0 | 4 | 0 | 0 | 0 | 4 |
-| 90d | 2026-08-19 | 0 | 6 | 0 | 1 | 0 | 5 |
-| last180d | 2026-05-21 | 2 | 13 | 0 | 2 | 0 | 11 |
-| 360d | 2025-11-22 | 4 | 31 | 0 | 2 | 0 | 32 |
-| last720d | 2024-11-27 | 4 | 48 | 0 | 2 | 0 | 78 |
+| 30d | 2026-10-20 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-20 | 0 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-08-21 | 0 | 6 | 0 | 1 | 0 | 5 |
+| last180d | 2026-05-23 | 2 | 12 | 0 | 2 | 0 | 11 |
+| 360d | 2025-11-24 | 4 | 31 | 0 | 2 | 0 | 32 |
+| last720d | 2024-11-29 | 4 | 47 | 0 | 2 | 0 | 78 |
 
 ## Release assets
 
@@ -102,4 +102,4 @@ Install metadata for trdsql lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T07:36:12Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T06:59:38Z._
