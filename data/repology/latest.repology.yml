@@ -1,3 +1,10 @@
+- repo: homebrew
+  srcname: trdsql
+  visiblename: trdsql
+  version: 1.2.3
+  origversion: null
+  status: newest
+  summary: CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN
 - repo: aur
   srcname: trdsql
   binname: trdsql
@@ -34,13 +41,6 @@
     - lcook@freebsd.org
   categories:
     - textproc
-- repo: homebrew
-  srcname: trdsql
-  visiblename: trdsql
-  version: 1.2.3
-  origversion: null
-  status: newest
-  summary: CLI tool that can execute SQL queries on CSV, LTSV, JSON, YAML and TBLN
 - repo: homebrew
   srcname: trdsql
   visiblename: trdsql
